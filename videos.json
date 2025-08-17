@@ -1,0 +1,14 @@
+{
+  "videos": [
+    {
+      "title": "Islamic Video 1",
+      "url": "https://github.com/your-username/your-repo/raw/main/video1.mp4",
+      "thumbnail": "https://github.com/your-username/your-repo/raw/main/thumb1.jpg"
+    },
+    {
+      "title": "Islamic Video 2",
+      "url": "https://github.com/your-username/your-repo/raw/main/video2.mp4",
+      "thumbnail": "https://github.com/your-username/your-repo/raw/main/thumb2.jpg"
+    }
+  ]
+}
